@@ -15,7 +15,7 @@
 
 This application is using port `3000` and `5000`, so make sure both are not occupied before start.
 
-- Clone this repo: `git clone @git react-task-manager`
+- Clone this repo: `git clone git@github.com:emanmks/react-task-manager.git`
 - Install dependencies: `yarn`
 - Run json server: `yarn server`
 - Open another terminal (tab), then run: `yarn start`
