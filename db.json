@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Clone the repo",
+      "day": "Nov 12nd at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Install dependencies",
+      "day": "Nov 13th at 11:00am",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Start json server",
+      "day": "Nov 14th at 11:00am",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Start frontend app",
+      "day": "Nov 15th at 11:00am",
+      "reminder": true
+    }
+  ]
+}
